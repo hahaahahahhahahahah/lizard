@@ -2,6 +2,9 @@
 keysystem/.env
 keysystem/config.js
 
+# Le dossier keysystem entier (loader en clair + clés + build) reste local
+keysystem/
+
 # Fichiers de travail / sources brutes - ne pas publier
 hoodcustoms/larpticc.txt
 hoodcustoms/larpticc_fixed.txt
@@ -14,3 +17,4 @@ opninja_backup.lua
 
 # Divers
 *.log
+lizard_obf.lua
