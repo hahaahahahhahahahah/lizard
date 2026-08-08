@@ -1,0 +1,16 @@
+# Secrets - ne jamais commiter
+keysystem/.env
+keysystem/config.js
+
+# Fichiers de travail / sources brutes - ne pas publier
+hoodcustoms/larpticc.txt
+hoodcustoms/larpticc_fixed.txt
+hoodcustoms/lizard.lua
+hoodcustoms/._chunks/
+decompiler.lua
+extract_upgrade.lua
+opninja.lua
+opninja_backup.lua
+
+# Divers
+*.log
